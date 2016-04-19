@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-<project path="device/motorola/titan" name="motog2014devteam/android_device_motorola_titan" revision="cm-11.0" />  
-<project path="vendor/motorola" name="motog2014devteam/proprietary_vendor_motorola" revision="cm-11.0" />  
-<project path="device/motorola/msm8226-common" name="motog2014devteam/android_device_motorola_msm8226-common" revision="cm-11.0" />  
-<project path="kernel/motorola/titan" name="mer-hybris/android_kernel_motorola_titan-OLD" revision="cm-11.0" />  
-<project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-11.0" />  
+<project name="MisterMagisterDev/droid-config-titan" path="hybris/droid-configs" remote="github" revision="master"/>
+<project name="MisterMagisterDev/droid-hal-version-titan" path="hybris/droid-hal-version-titan" remote="github" revision="master"/>
+<project name="MisterMagisterDev/droid-hal-titan" path="rpm/" remote="github" revision="master"/>
+<project path="device/motorola/titan" name="motog2014devteam/android_device_motorola_titan" revision="cm-11.0" />
+<project path="vendor/motorola" name="motog2014devteam/proprietary_vendor_motorola" revision="cm-11.0" />
+<project path="device/motorola/msm8226-common" name="motog2014devteam/android_device_motorola_msm8226-common" revision="cm-11.0" />
+<project path="kernel/motorola/titan" name="mer-hybris/android_kernel_motorola_titan-OLD" revision="cm-11.0" />
+<project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-11.0" />
+<project name="CyanogenMod/android_hardware_qcom_display-caf-new" path="hardware/qcom/display-caf-new" revision="cm-11.0" />
+<project name="CyanogenMod/android_hardware_qcom_media-caf-new" path="hardware/qcom/media-caf-new" revision="cm-11.0" />
+<project name="mlehtima/audioflingerglue" path="external/audioflingerglue" remote="github" revision="master"/>
 </manifest>
