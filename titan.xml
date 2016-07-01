@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<project name="MisterMagisterDev/droid-config-titan" path="hybris/droid-configs" remote="github" revision="master"/>
+<project name="MisterMagisterDev/droid-hal-version-titan" path="hybris/droid-hal-version-titan" remote="github" revision="master"/>
+<project name="MisterMagisterDev/droid-hal-titan" path="rpm/" remote="github" revision="hybris-12.1"/>
+<project name="CyanogenMod/android_device_motorola_titan" path="device/motorola/titan" revision="stable/cm-12.1-YOG7D" />
+<project name="TheMuppets/proprietary_vendor_motorola" path="vendor/motorola" revision="stable/cm-12.1-YOG7D" />
+<project name="CyanogenMod/android_device_motorola_msm8226-common" path="device/motorola/msm8226-common" revision="stable/cm-12.1-YOG7D" />
+<project name="mer-hybris/android_kernel_motorola_msm8226" path="kernel/motorola/msm8226" revision="hybris-12.1" />
+<project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" revision="stable/cm-12.1-YOG7D" />
+<project name="CyanogenMod/android_hardware_qcom_fm" path="hardware/qcom/fm" remote="github" revision="stable/cm-12.1-YOG7D" />
+<project path="hardware/qcom/display-caf/msm8226" name="CyanogenMod/android_hardware_qcom_display" groups="qcom,qcom_display" revision="cm-12.1-caf-8226" />
+<project path="hardware/qcom/media-caf/msm8226" name="CyanogenMod/android_hardware_qcom_media" groups="qcom,qcom_media" revision="cm-12.1-caf-8226" />
+
+</manifest>
