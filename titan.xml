@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<project name="MisterMagisterDev/droid-config-titan" path="hybris/droid-configs" remote="github" revision="master"/>
+<project name="MisterMagisterDev/droid-hal-version-titan" path="hybris/droid-hal-version-titan" remote="github" revision="master"/>
+<project name="MisterMagisterDev/droid-hal-titan" path="rpm/" remote="github" revision="hybris-12.1"/>
+<project path="device/motorola/titan" name="MisterMagisterDev/android_device_motorola_titan" revision="stable/cm-12.1-YOG7D" />
+<project path="device/motorola/msm8226-common" name="MisterMagisterDev/android_device_motorola_msm8226-common" revision="stable/cm-12.1-YOG7D" />
+<project path="kernel/motorola/msm8226" name="mer-hybris/android_kernel_motorola_msm8226" revision="hybris-12.1" />
+<project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" revision="stable/cm-12.1-YOG7D" />
+<project path="hardware/qcom/fm" name="CyanogenMod/android_hardware_qcom_fm" revision="stable/cm-12.1-YOG7D" />
+<project path="vendor/motorola" name="TheMuppets/proprietary_vendor_motorola" revision="stable/cm-12.1-YOG7D" remote="github" />
+</manifest>
