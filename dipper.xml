@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<project path="device/xiaomi/dipper"
+		name="LineageOS/android_device_xiaomi_dipper"
+		revision="lineage-17.1" />
+	<project path="kernel/xiaomi/sdm845"
+		name="sfos-mi8/android_kernel_xiaomi_sdm845"
+		revision="lineage-17.1" />
+	<project path="device/xiaomi/sdm845-common" name="LineageOS/android_device_xiaomi_sdm845-common" revision="lineage-17.1" />
+	<project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" revision="lineage-17.1" />
+	<project path="vendor/xiaomi/dipper" name="sfos-mi8/proprietary_xiaomi_dipper" revision="lineage-17.1" />
+	<project path="vendor/xiaomi/sdm845-common" name="sfos-mi8/proprietary_xiaomi_sdm845-common" revision="lineage-17.1" />
+	
+	<project path="packages/apps/Email" name="LineageOS/android_packages_apps_Email" revision="lineage-17.1" />
+	<project path="external/libhybris" name="mer-hybris/libhybris" revision="master" />
+	<project path="hybris/hybris-boot" name="sfos-mi8/hybris-boot" revision="master" />
+	<project path="rpm/" name="sfos-mi8/droid-hal-dipper" revision="master" />
+	<project path="hybris/droid-configs" name="sfos-mi8/droid-config-dipper" revision="master" />
+	<project path="hybris/droid-hal-version-dipper" name="sfos-mi8/droid-hal-version-dipper" revision="master" />
+</manifest>
